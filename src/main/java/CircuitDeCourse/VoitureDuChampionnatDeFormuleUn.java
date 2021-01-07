@@ -1,7 +1,7 @@
 package CircuitDeCourse;
 
 public interface VoitureDuChampionnatDeFormuleUn {
-    public String getColor();
+    String getColor();
     void accelerer();
     void tourner();
     void freiner();
