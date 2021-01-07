@@ -26,3 +26,10 @@ Votre projet doit m’être rendu sous forme de projet git que je pourrais clone
 
 Je prendrais les commits de vos projets à cette date.
 ```
+
+J'ai utilisé pour le `SafetyCar` le design pattern `Singleton`et pour les autres voitures le design pattern `Factory`
+
+Et j'ai suivi le diagramme UML que vous voyez à continuation 
+
+![Diagramme UML](diagramme-UML.png)
+

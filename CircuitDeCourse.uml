@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>CircuitDeCourse</OriginalElement>
+  <nodes>
+    <node x="802.0" y="364.0">CircuitDeCourse.SafetyCar</node>
+    <node x="507.99999999999994" y="171.0">CircuitDeCourse.ConstructeurBrand</node>
+    <node x="144.07083333333327" y="387.0">CircuitDeCourse.VoitureDuChampionnatDeFormuleUnFactory</node>
+    <node x="168.99999999999994" y="182.0">CircuitDeCourse.Ferrari</node>
+    <node x="281.0999999999999" y="0.0">CircuitDeCourse.VoitureDuChampionnatDeFormuleUn</node>
+    <node x="659.0354166666666" y="514.0">CircuitDeCourse.CircuitDeCourse</node>
+    <node x="0.0" y="182.0">CircuitDeCourse.Mercedes</node>
+    <node x="337.99999999999994" y="182.0">CircuitDeCourse.Renault</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="CircuitDeCourse.VoitureDuChampionnatDeFormuleUnFactory" target="CircuitDeCourse.Ferrari">
+      <point x="-96.39999999999998" y="-27.0" />
+      <point x="288.6708333333333" y="339.0" />
+      <point x="243.49999999999994" y="339.0" />
+      <point x="0.0" y="60.5" />
+    </edge>
+    <edge source="CircuitDeCourse.VoitureDuChampionnatDeFormuleUnFactory" target="CircuitDeCourse.Renault">
+      <point x="0.0" y="-27.0" />
+      <point x="385.07083333333327" y="339.0" />
+      <point x="412.49999999999994" y="339.0" />
+      <point x="0.0" y="60.5" />
+    </edge>
+    <edge source="CircuitDeCourse.Mercedes" target="CircuitDeCourse.VoitureDuChampionnatDeFormuleUn">
+      <point x="0.0" y="-60.5" />
+      <point x="74.5" y="141.0" />
+      <point x="310.0999999999999" y="141.0" />
+      <point x="-116.0" y="60.5" />
+    </edge>
+    <edge source="CircuitDeCourse.CircuitDeCourse" target="CircuitDeCourse.VoitureDuChampionnatDeFormuleUn">
+      <point x="21.125" y="-27.0" />
+      <point x="764.6604166666666" y="489.0" />
+      <point x="791.5" y="489.0" />
+      <point x="791.5" y="151.0" />
+      <point x="542.0999999999999" y="151.0" />
+      <point x="116.0" y="60.5" />
+    </edge>
+    <edge source="CircuitDeCourse.CircuitDeCourse" target="CircuitDeCourse.VoitureDuChampionnatDeFormuleUnFactory">
+      <point x="-63.375" y="-27.0" />
+      <point x="680.1604166666666" y="489.0" />
+      <point x="385.07083333333327" y="489.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="CircuitDeCourse.VoitureDuChampionnatDeFormuleUnFactory" target="CircuitDeCourse.ConstructeurBrand">
+      <point x="192.79999999999995" y="-27.0" />
+      <point x="577.8708333333332" y="339.0" />
+      <point x="576.25" y="339.0" />
+      <point x="-68.25" y="71.5" />
+    </edge>
+    <edge source="CircuitDeCourse.VoitureDuChampionnatDeFormuleUnFactory" target="CircuitDeCourse.Mercedes">
+      <point x="-192.79999999999995" y="-27.0" />
+      <point x="192.27083333333331" y="339.0" />
+      <point x="74.5" y="339.0" />
+      <point x="0.0" y="60.5" />
+    </edge>
+    <edge source="CircuitDeCourse.VoitureDuChampionnatDeFormuleUnFactory" target="CircuitDeCourse.VoitureDuChampionnatDeFormuleUn">
+      <point x="96.39999999999998" y="-27.0" />
+      <point x="481.47083333333325" y="339.0" />
+      <point x="497.49999999999994" y="339.0" />
+      <point x="497.49999999999994" y="151.0" />
+      <point x="484.0999999999999" y="151.0" />
+      <point x="58.0" y="60.5" />
+    </edge>
+    <edge source="CircuitDeCourse.Renault" target="CircuitDeCourse.VoitureDuChampionnatDeFormuleUn">
+      <point x="0.0" y="-60.5" />
+      <point x="412.49999999999994" y="151.0" />
+      <point x="426.0999999999999" y="151.0" />
+      <point x="0.0" y="60.5" />
+    </edge>
+    <edge source="CircuitDeCourse.CircuitDeCourse" target="CircuitDeCourse.ConstructeurBrand">
+      <point x="-21.125" y="-27.0" />
+      <point x="722.4104166666666" y="489.0" />
+      <point x="712.75" y="489.0" />
+      <point x="68.25" y="71.5" />
+    </edge>
+    <edge source="CircuitDeCourse.CircuitDeCourse" target="CircuitDeCourse.SafetyCar">
+      <point x="63.375" y="-27.0" />
+      <point x="806.9104166666666" y="489.0" />
+      <point x="902.0" y="489.0" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="CircuitDeCourse.Ferrari" target="CircuitDeCourse.VoitureDuChampionnatDeFormuleUn">
+      <point x="0.0" y="-60.5" />
+      <point x="243.49999999999994" y="151.0" />
+      <point x="368.0999999999999" y="151.0" />
+      <point x="-58.0" y="60.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8052837573385518" x="501.0" y="284.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
